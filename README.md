@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Parwez44/DataStructureAlgo/tree/master/0743-network-delay-time) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Parwez44/DataStructureAlgo/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Parwez44/DataStructureAlgo/tree/master/0743-network-delay-time) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Parwez44/DataStructureAlgo/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
@@ -146,4 +148,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/Parwez44/DataStructureAlgo/tree/master/3525-find-x-value-of-array-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Parwez44/DataStructureAlgo/tree/master/0743-network-delay-time) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Parwez44/DataStructureAlgo/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Parwez44/DataStructureAlgo/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Parwez44/DataStructureAlgo/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
