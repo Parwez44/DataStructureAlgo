@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Parwez44/DataStructureAlgo/tree/master/0115-distinct-subsequences) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Parwez44/DataStructureAlgo/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Parwez44/DataStructureAlgo/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0940-distinct-subsequences-ii](https://github.com/Parwez44/DataStructureAlgo/tree/master/0940-distinct-subsequences-ii) |
 | [0943-find-the-shortest-superstring](https://github.com/Parwez44/DataStructureAlgo/tree/master/0943-find-the-shortest-superstring) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Parwez44/DataStructureAlgo/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Parwez44/DataStructureAlgo/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0943-find-the-shortest-superstring](https://github.com/Parwez44/DataStructureAlgo/tree/master/0943-find-the-shortest-superstring) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Parwez44/DataStructureAlgo/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Breadth-First Search
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/Parwez44/DataStructureAlgo/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Parwez44/DataStructureAlgo/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Parwez44/DataStructureAlgo/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1096-brace-expansion-ii](https://github.com/Parwez44/DataStructureAlgo/tree/master/1096-brace-expansion-ii) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Parwez44/DataStructureAlgo/tree/master/1129-shortest-path-with-alternating-colors) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Parwez44/DataStructureAlgo/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/Parwez44/DataStructureAlgo/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Parwez44/DataStructureAlgo/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Parwez44/DataStructureAlgo/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Parwez44/DataStructureAlgo/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Parwez44/DataStructureAlgo/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Heap (Priority Queue)
@@ -226,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bitmask
 |  |
 | ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Parwez44/DataStructureAlgo/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0943-find-the-shortest-superstring](https://github.com/Parwez44/DataStructureAlgo/tree/master/0943-find-the-shortest-superstring) |
 ## Hamiltonian Path
 |  |
