@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Parwez44/DataStructureAlgo/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Parwez44/DataStructureAlgo/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Parwez44/DataStructureAlgo/tree/master/0940-distinct-subsequences-ii) |
 | [0943-find-the-shortest-superstring](https://github.com/Parwez44/DataStructureAlgo/tree/master/0943-find-the-shortest-superstring) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Parwez44/DataStructureAlgo/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Parwez44/DataStructureAlgo/tree/master/0115-distinct-subsequences) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Parwez44/DataStructureAlgo/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Parwez44/DataStructureAlgo/tree/master/0847-shortest-path-visiting-all-nodes) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Parwez44/DataStructureAlgo/tree/master/0032-longest-valid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Parwez44/DataStructureAlgo/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Parwez44/DataStructureAlgo/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Parwez44/DataStructureAlgo/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Parwez44/DataStructureAlgo/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Parwez44/DataStructureAlgo/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Parwez44/DataStructureAlgo/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Parwez44/DataStructureAlgo/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
