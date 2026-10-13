@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Parwez44/DataStructureAlgo/tree/master/0051-n-queens) |
 | [0169-majority-element](https://github.com/Parwez44/DataStructureAlgo/tree/master/0169-majority-element) |
 | [0943-find-the-shortest-superstring](https://github.com/Parwez44/DataStructureAlgo/tree/master/0943-find-the-shortest-superstring) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Parwez44/DataStructureAlgo/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Parwez44/DataStructureAlgo/tree/master/0051-n-queens) |
 | [0301-remove-invalid-parentheses](https://github.com/Parwez44/DataStructureAlgo/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Parwez44/DataStructureAlgo/tree/master/1096-brace-expansion-ii) |
 ## Stack
@@ -279,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0943-find-the-shortest-superstring](https://github.com/Parwez44/DataStructureAlgo/tree/master/0943-find-the-shortest-superstring) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Parwez44/DataStructureAlgo/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
