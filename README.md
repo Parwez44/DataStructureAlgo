@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Parwez44/DataStructureAlgo/tree/master/0051-n-queens) |
 | [0169-majority-element](https://github.com/Parwez44/DataStructureAlgo/tree/master/0169-majority-element) |
 | [0435-non-overlapping-intervals](https://github.com/Parwez44/DataStructureAlgo/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Parwez44/DataStructureAlgo/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0943-find-the-shortest-superstring](https://github.com/Parwez44/DataStructureAlgo/tree/master/0943-find-the-shortest-superstring) |
 | [0980-unique-paths-iii](https://github.com/Parwez44/DataStructureAlgo/tree/master/0980-unique-paths-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Parwez44/DataStructureAlgo/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Parwez44/DataStructureAlgo/tree/master/0169-majority-element) |
 | [0435-non-overlapping-intervals](https://github.com/Parwez44/DataStructureAlgo/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Parwez44/DataStructureAlgo/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1096-brace-expansion-ii](https://github.com/Parwez44/DataStructureAlgo/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Parwez44/DataStructureAlgo/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Parwez44/DataStructureAlgo/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/Parwez44/DataStructureAlgo/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Parwez44/DataStructureAlgo/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0678-valid-parenthesis-string](https://github.com/Parwez44/DataStructureAlgo/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Parwez44/DataStructureAlgo/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Parwez44/DataStructureAlgo/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
