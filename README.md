@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Parwez44/DataStructureAlgo/tree/master/0051-n-queens) |
 | [0169-majority-element](https://github.com/Parwez44/DataStructureAlgo/tree/master/0169-majority-element) |
 | [0943-find-the-shortest-superstring](https://github.com/Parwez44/DataStructureAlgo/tree/master/0943-find-the-shortest-superstring) |
+| [0980-unique-paths-iii](https://github.com/Parwez44/DataStructureAlgo/tree/master/0980-unique-paths-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Parwez44/DataStructureAlgo/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Parwez44/DataStructureAlgo/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Parwez44/DataStructureAlgo/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Parwez44/DataStructureAlgo/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0943-find-the-shortest-superstring](https://github.com/Parwez44/DataStructureAlgo/tree/master/0943-find-the-shortest-superstring) |
+| [0980-unique-paths-iii](https://github.com/Parwez44/DataStructureAlgo/tree/master/0980-unique-paths-iii) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Parwez44/DataStructureAlgo/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Parwez44/DataStructureAlgo/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Breadth-First Search
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0980-unique-paths-iii](https://github.com/Parwez44/DataStructureAlgo/tree/master/0980-unique-paths-iii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Parwez44/DataStructureAlgo/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Parwez44/DataStructureAlgo/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Parwez44/DataStructureAlgo/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Parwez44/DataStructureAlgo/tree/master/0052-n-queens-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/Parwez44/DataStructureAlgo/tree/master/0301-remove-invalid-parentheses) |
+| [0980-unique-paths-iii](https://github.com/Parwez44/DataStructureAlgo/tree/master/0980-unique-paths-iii) |
 | [1096-brace-expansion-ii](https://github.com/Parwez44/DataStructureAlgo/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
@@ -295,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0943-find-the-shortest-superstring](https://github.com/Parwez44/DataStructureAlgo/tree/master/0943-find-the-shortest-superstring) |
+| [0980-unique-paths-iii](https://github.com/Parwez44/DataStructureAlgo/tree/master/0980-unique-paths-iii) |
 ## Algorithm X
 |  |
 | ------- |
