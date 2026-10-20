@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Parwez44/DataStructureAlgo/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0943-find-the-shortest-superstring](https://github.com/Parwez44/DataStructureAlgo/tree/master/0943-find-the-shortest-superstring) |
 | [0980-unique-paths-iii](https://github.com/Parwez44/DataStructureAlgo/tree/master/0980-unique-paths-iii) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Parwez44/DataStructureAlgo/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Parwez44/DataStructureAlgo/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Parwez44/DataStructureAlgo/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Parwez44/DataStructureAlgo/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Parwez44/DataStructureAlgo/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Parwez44/DataStructureAlgo/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1096-brace-expansion-ii](https://github.com/Parwez44/DataStructureAlgo/tree/master/1096-brace-expansion-ii) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Parwez44/DataStructureAlgo/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Parwez44/DataStructureAlgo/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Parwez44/DataStructureAlgo/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Parwez44/DataStructureAlgo/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Parwez44/DataStructureAlgo/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0678-valid-parenthesis-string](https://github.com/Parwez44/DataStructureAlgo/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Parwez44/DataStructureAlgo/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Parwez44/DataStructureAlgo/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Parwez44/DataStructureAlgo/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Parwez44/DataStructureAlgo/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Parwez44/DataStructureAlgo/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/Parwez44/DataStructureAlgo/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Parwez44/DataStructureAlgo/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Parwez44/DataStructureAlgo/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Parwez44/DataStructureAlgo/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Shortest Path
 |  |
