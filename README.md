@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Parwez44/DataStructureAlgo/tree/master/0169-majority-element) |
 | [0435-non-overlapping-intervals](https://github.com/Parwez44/DataStructureAlgo/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Parwez44/DataStructureAlgo/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Parwez44/DataStructureAlgo/tree/master/0646-maximum-length-of-pair-chain) |
 | [0943-find-the-shortest-superstring](https://github.com/Parwez44/DataStructureAlgo/tree/master/0943-find-the-shortest-superstring) |
 | [0980-unique-paths-iii](https://github.com/Parwez44/DataStructureAlgo/tree/master/0980-unique-paths-iii) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Parwez44/DataStructureAlgo/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Parwez44/DataStructureAlgo/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Parwez44/DataStructureAlgo/tree/master/0115-distinct-subsequences) |
 | [0435-non-overlapping-intervals](https://github.com/Parwez44/DataStructureAlgo/tree/master/0435-non-overlapping-intervals) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Parwez44/DataStructureAlgo/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/Parwez44/DataStructureAlgo/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Parwez44/DataStructureAlgo/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Parwez44/DataStructureAlgo/tree/master/0847-shortest-path-visiting-all-nodes) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Parwez44/DataStructureAlgo/tree/master/0169-majority-element) |
 | [0435-non-overlapping-intervals](https://github.com/Parwez44/DataStructureAlgo/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Parwez44/DataStructureAlgo/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Parwez44/DataStructureAlgo/tree/master/0646-maximum-length-of-pair-chain) |
 | [1096-brace-expansion-ii](https://github.com/Parwez44/DataStructureAlgo/tree/master/1096-brace-expansion-ii) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Parwez44/DataStructureAlgo/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Parwez44/DataStructureAlgo/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/Parwez44/DataStructureAlgo/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Parwez44/DataStructureAlgo/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Parwez44/DataStructureAlgo/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/Parwez44/DataStructureAlgo/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Parwez44/DataStructureAlgo/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Parwez44/DataStructureAlgo/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
@@ -345,4 +349,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Parwez44/DataStructureAlgo/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/Parwez44/DataStructureAlgo/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
